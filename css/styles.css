@@ -1,0 +1,108 @@
+body{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    margin: 0px;
+    font-family:open sans;
+}
+    body > img {
+        position: absolute;
+        width: 803px;
+        height: 600;;
+        left: 10px;
+        top: 10px;
+    }
+    body > main{
+        position: absolute;
+        margin-top: 10px;
+        margin-left: 10;
+        width: 100%;
+        background-color:transparent;
+    }
+    body main > section{
+        background-color: transparent;
+
+    }
+        body > main > section > img{
+            position: absolute;
+            width: 258px;
+            height: 376;;
+            left: 95px;
+            top: 116px;
+        }
+        body > main > section > div > h1{
+            position: absolute;
+            font-size: 32px;
+            top: 130px;
+            left: 130px;
+            color:white;
+        }
+        body > main > section > div >p{
+            position: absolute;
+            font-size: 12px;
+            color: white;
+            top: 435px;
+            left: 130px;
+        }
+    body > main > aside{
+        position: absolute;
+        width: 360px;
+        height: 400px;
+        left: 353px;
+        top: 103px;
+        background-color: white;
+    }
+         body > main > aside > img{
+            position: relative;
+            top: 10px;
+            left: 320px;
+        
+    }
+        body > main > aside > div > h4{
+            position: relative;
+            font-size: 10px;
+            top: 30px;
+            left: 75px;
+            color:#808090;
+
+        }
+        body > main > aside > div > input{
+            position: relative;
+            font-size: 10px;
+            top: 26px;
+            left: 75px;
+            padding: 0px 130px 0px 0px;
+            border: none;
+            border;
+            /* text-decoration: underline; */
+            border-bottom-style: inset;
+            color:black;
+
+        }
+
+        .subformpos{
+            position: relative;
+            font-size: 12px;
+            top: 90px;
+           
+        }
+
+        .getstart{
+            position: relative;
+            color: white;
+            text-decoration: none;
+            left: 75px;
+            padding: 5px 25px 5px 25px;
+            background-color:#215ADB ;
+            border-color: #215ADB;
+            border-radius: 15px;
+        }
+
+        .signIn{
+            position: relative;
+            color: #215ADB;
+            left: 100px;
+            text-decoration: none;
+        }
+
+        
